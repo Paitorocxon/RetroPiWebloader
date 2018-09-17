@@ -1,0 +1,55 @@
+
+.ugh {
+    height: 128px;
+    width: 128px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgba(20,20,20,0.8);
+    background-size: auto;
+    display:inline-block;
+    margin: 5px;
+    border: 5px solid rgba(20,20,20,0.8);
+    border-radius: 5px 5px 5px 5px;
+    color: #DA0;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+    box-shadow: 1px 2px 5px #000;
+    filter: blur(0.5pt) grayscale(50%);
+}
+
+.ugh:hover {    
+    box-shadow: 1px 1px 15px #000;
+    top: 0px;
+    left: 0px;
+    filter: grayscale(0%);
+    
+}
+
+.formDieDenScheissHochladenSoll{
+    background-color: rgba(20,20,20,0.8);
+    color: #FFF;
+}
+
+input{
+    background-color: rgba(20,20,20,0.8);
+    color: #FFF;
+}
+
+.inputScheisse{
+    background-color: rgba(20,20,20,0.8);
+    color: #FFF;
+}
+
+a {
+    text-decoration: none;
+    color: #DA0;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #DA0;
+}
+
+body {
+    margin: 0px;
+    background-color: #333;
+}
